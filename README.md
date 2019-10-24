@@ -1,2 +1,2 @@
 # Multiple-Linear-Regression
-linear
+linear regression
