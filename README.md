@@ -1,2 +1,2 @@
-# Multiple-Linear-Regression
+# Basics of python
 linear regression
